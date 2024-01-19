@@ -1,5 +1,7 @@
 # Library-Application
 
+## 概要
+このアプリケーションはパーツを選び仮想のコンピュータを組み立てその性能を評価することができます。
 
 ## webアプリのデモ画面
 https://github.com/Kanatanagano/Library-Application/assets/112442087/6320287c-bd05-4006-906a-6728c3017cd4
