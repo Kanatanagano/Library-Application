@@ -35,6 +35,8 @@ ISBN（International Standard Book Number: 国際規格コード）を打ち込�
   <td>HTML</td>
 </tr>
 <tr>
+</tr>
+<tr>
   <td>フレームワーク : Bootstrap</td>
 </tr>
 <tr>
