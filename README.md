@@ -1,7 +1,8 @@
 # Library-Application
 
 ## 概要
-このアプリケーションはパーツを選び仮想のコンピュータを組み立てその性能を評価することができます。
+このプログラムははOpen Library APIから本を検索し、取得した情報を元に動的なHTML要素を生成して表示するシンプルな図書館アプリケーションです。
+javaScriptでのDOM操作を行っており、またwebAPIから取得したデータを変換するためfetch関数とプロミスオブジェクトを使用しています。
 
 ## webアプリのデモ画面
 https://github.com/Kanatanagano/Library-Application/assets/112442087/6320287c-bd05-4006-906a-6728c3017cd4
@@ -13,7 +14,7 @@ https://kanatanagano.github.io/Library-Application/
 なにかユーザー側が操作をして動的に表示されるサイトをデモで作りたかったからです。
 
 ## 特徴は？
-ISBN（International Standard Book Number: 国際規格コード）を打ち込むと目的の本が表示されます。技術的にはJSONを使ってそのURLをJSに落とし込むことで目的の本が表示されます。
+ISBN（International Standard Book Number: 国際規格コード）を打ち込むと目的の本が表示されます。技術的にはweb APIを使いJSONを取得します。
 
 1. これがスタート画面です。ISBNコードを検索すると次のように画面に表示されます。
 
