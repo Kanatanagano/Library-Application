@@ -24,9 +24,27 @@ ISBN（International Standard Book Number: 国際規格コード）を打ち込�
 
 <img width="1128" alt="スクリーンショット 2023-11-04 220400" src="https://github.com/Kanatanagano/Library-Application/assets/112442087/d4ba9e9b-e3e6-443d-8143-af744072a87c">
 
-## つかったスキル
-* JavaScript
-* HTML/bootstrap
+## 使用技術
+<table>
+<tr>
+  <th>カテゴリ</th>
+  <th>技術スタック</th>
+</tr>
+<tr>
+  <td rowspan=4>フロントエンド</td>
+  <td>HTML</td>
+</tr>
+<tr>
+  <td>フレームワーク : Bootstrap</td>
+</tr>
+<tr>
+  <td>JavaScript</td>
+</tr>
+<td rowspan=2>その他</td>
+  <td>Git</td>
+</tr>
+<tr>
+  <td>GitHub</td>
+  </tr>
+</table>
 
-## 著者 
-naganokanata
